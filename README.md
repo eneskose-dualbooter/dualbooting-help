@@ -2,6 +2,8 @@
 
 Bu repo, GRUB yapılandırma sorunlarını çözmek, OS-Prober desteğini aktif hale getirmek ve dualboot sistemlerde güvenli geçiş sağlamak için hazırlanmıştır.
 
+📥 [v1.0 sürümünü indir](https://github.com/eneskose-dualbooter/dualbooting-help/releases/tag/v1.0)
+
 ---
 
 ## 📁 Klasör Yapısı
