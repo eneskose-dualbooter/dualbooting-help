@@ -1,0 +1,4 @@
+GRUB_TIMEOUT=5
+GRUB_DISTRIBUTOR=`lsb_release -i -s 2> /dev/null || echo Debian` # /dev/null yerine kendi linux un boot partisionunu yazın
+GRUB_DEFAULT=0
+GRUB_DISABLE_OS_PROBER=false
