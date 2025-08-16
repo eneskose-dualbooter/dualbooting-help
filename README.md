@@ -18,3 +18,9 @@ Bu repo, GRUB yapılandırma sorunlarını çözmek, OS-Prober desteğini aktif 
 
 ```bash
 sudo bash scripts/recreate_grub.sh
+
+🧠 Not
+“GRUB menüsü görünmüyorsa, bu repo görünür kılar.”
+
+
+
